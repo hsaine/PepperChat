@@ -94,15 +94,15 @@ In this project, we achieved a significant milestone by successfully obtaining a
 <h2> Capting audio</h2>
 In this part, we utilized audio recordings from a computer as a substitute for the Pepper robot’s functionality while we worked on resolving the installation issues with the necessary tools.
 <p align="center">
-  <img src="recordaudio.png"   height="400"><br>
+  <img src="recordaudio.jpg"   height="400"><br>
 </p>
 We saved the audio after the recording process.
 <p align="center">
-  <img src="saveaudio.png"   height="400"><br>
+  <img src="saveaudio.jpg"   height="400"><br>
 </p>
 Then, we transformed the audio into text using Watson’s speech-to-text conversion capabilities.
 <p align="center">
-  <img src="transform.png"   height="400"><br>
+  <img src="transform.jpg"   height="400"><br>
 </p>
 
 <h2>Communicate with ChatGPT</h2>
